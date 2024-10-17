@@ -1,0 +1,7 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    padding: 40px;
+    position: relative;
+    gap: 40px;
+}
